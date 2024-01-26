@@ -1,0 +1,2 @@
+#secrets
+API_KEY_ASSEMBLY_AI = "dd25316e983541d0857dcdbc0677f202"

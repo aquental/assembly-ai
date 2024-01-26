@@ -1,9 +1,9 @@
 # assembly-ai
 
-Create account
+Create account : 
 https://www.assemblyai.com/dashboard/signup
 
-Dashboard/account
+Dashboard/account : 
 https://www.assemblyai.com/app/account
 
 Install Go

@@ -13,5 +13,5 @@ go get github.com/AssemblyAI/assemblyai-go-sdk
 
 Install Python
 ```Shell
-pip install assemblyai
+pip3 install assemblyai
 ```
